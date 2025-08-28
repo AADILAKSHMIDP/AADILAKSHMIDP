@@ -51,7 +51,7 @@
 
 ## 📈 Activity Graph  
 
-![Aadi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?AADILAKSHMIDP=AADILAKSHMIDP&theme=tokyo-night)  
+![Aadi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AADILAKSHMIDPheme=tokyo-night)
 
 ---
 
