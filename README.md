@@ -38,14 +38,13 @@
 5. ⏳ RTOS & IoT systems  
 
 ---
-
 ## 📊 GitHub Stats  
 
-![Aadi's GitHub Stats](https://github-readme-stats.vercel.app/api?AADILAKSHMIDP=AADILAKSHMIDP&show_icons=true&theme=tokyonight)  
+![Aadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AADILAKSHMIDP&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?AADILAKSHMIDP=AADILAKSHMIDP&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AADILAKSHMIDP&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?AADILAKSHMIDP=AADILAKSHMIDP&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AADILAKSHMIDP&theme=tokyonight)
 
 ---
 ## 📈 Activity Graph  
