@@ -45,7 +45,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?AADILAKSHMIDP=AADILAKSHMIDP&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AADILAKSHMIDP&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?AADILAKSHMIDP=AADILAKSHMIDP&theme=tokyonight)  
 
 ---
 
