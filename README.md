@@ -48,10 +48,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?AADILAKSHMIDP=AADILAKSHMIDP&theme=tokyonight)  
 
 ---
-
 ## 📈 Activity Graph  
 
-![Aadi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AADILAKSHMIDPheme=tokyo-night)
+![Aadi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AADILAKSHMIDP&theme=tokyo-night)
 
 ---
 
